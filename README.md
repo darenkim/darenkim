@@ -1,10 +1,12 @@
-### Hi there 👋 , i'm daren(data + children) 'Gyeonghan kim'
 
 <div align=center>
-
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdarenkim%2F&count_bg=%2340D8E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                    
 
 </div>
+
+### Hi there 👋 , i'm daren(data + children) 'Gyeonghan kim'
+
 
 <img width="88" alt="스크린샷 2021-01-28 오후 11 31 16" src="https://user-images.githubusercontent.com/70153665/106153567-075cbd00-61c2-11eb-818c-761aa702d14f.png">
 
