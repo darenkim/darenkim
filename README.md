@@ -5,7 +5,7 @@
 
 </div>
 
-### Hi there 👋 ,   I'm daren(data + children) 'Gyeonghan kim'
+### Hi there,  I'm daren(data + children) 'Gyeonghan kim'
 
 
 <img width="88" alt="스크린샷 2021-01-28 오후 11 31 16" src="https://user-images.githubusercontent.com/70153665/106153567-075cbd00-61c2-11eb-818c-761aa702d14f.png">
@@ -17,7 +17,7 @@
 
 ### Interest
 - Data analysis, Machine Learning(algorithm)
-- SQL, LTV, AAARR, A/B Test, visualization 
+- SQL, LTV, AARRR, A/B Test, visualization 
 - Organizational culture
 
 
