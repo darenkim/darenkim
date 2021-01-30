@@ -10,7 +10,7 @@
 
 ### Interest
 - Data analysis, Machine Learning(algorithm)
-- SQL, LTV, AARRR, A/B Test, visualization 
+- Python, SQL, LTV, AARRR, A/B Test, visualization 
 - Organizational culture
 
 
